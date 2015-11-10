@@ -53,4 +53,4 @@ Widget for CMV to use ESRI <a href="https://github.com/Esri/cedar"> cedar api </
                     map: true
                 }
             },
-Capture.PNG
+![alt tag](/Capture.PNG)
