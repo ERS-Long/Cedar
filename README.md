@@ -38,7 +38,7 @@ Widget for CMV to use ESRI <a href="https://github.com/Esri/cedar"> cedar api </
                 }]
             };
             
-  2. Viewer.js setting
+2. Viewer.js setting
   
               cedar: {
                 include: true,
@@ -53,4 +53,5 @@ Widget for CMV to use ESRI <a href="https://github.com/Esri/cedar"> cedar api </
                     map: true
                 }
             },
+
 ![alt tag](/Capture.PNG)
